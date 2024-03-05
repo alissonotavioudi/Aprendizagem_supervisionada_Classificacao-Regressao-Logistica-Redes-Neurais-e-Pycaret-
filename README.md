@@ -1,24 +1,24 @@
-1. Título do projeto
+**1. Título do projeto**
 
 Aplicação de Machine Learning e Deep Learning na base de dados Breast Cancer
 
-2. Objetivo do projeto
+**2. Objetivo do projeto**
 
 Este projeto teve como objetivo prever a partir das variáveis estudadas se o câncer dos pacientes era benigno ou maligno. 
 
-3. Base de Dados
+**3. Base de Dados**
 
 O conjunto de dados utilizado neste Projeto está disponível em no caminho [https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html). O dataset possui 569 linhas e 31 features. Cabe ressaltar que o dataset não possui dados nulos, não sendo assim necessário realizar a etapa de remoção ou preechimento dos valores ausentes.
 
-4. Algoritmo utilizado
+**4. Algoritmo utilizado**
 
 Para este trabalho, a ideia foi avaliar a base x previsão de câncer maligno nos pacientes em avaliação sob 3 visões, uma utilizando Machine Learning através do método de Regressão Logística (escolha aleatória), outra utilizando Deep Learning (Redes Neurais) e uma terceira utilizando o Pycaret, uma biblioteca poderosa que permite que o Cientista de Dados em poucas linhas de código avalie a performance do modelo desenvolvido.
 
-5. Estrutura do Projeto
+**5. Estrutura do Projeto**
 
 Para realizar a classificação nas 3 visões avaliadas (ML - Regressão Logística, DP - Redes Neurais e Pycaret), em linhas gerais, percorri as etapas mais comuns em um Projeto de Data Science, como importação e análise exploratória dos dados, pré-processamento e divisão das bases em treino e teste, modelagem, avaliação da performance do modelo, deploy do modelo e realização de novas previsões.
 
-6. Conclusões e Próximos Passos
+**6. Conclusões e Próximos Passos**
 
 Após avaliar as 3 visões, alguns pontos chamaram a atenção, são eles:
 
