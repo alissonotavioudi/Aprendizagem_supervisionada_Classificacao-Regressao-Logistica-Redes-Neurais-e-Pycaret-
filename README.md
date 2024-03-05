@@ -23,7 +23,7 @@ Para realizar a classificação nas 3 visões avaliadas (ML - Regressão Logíst
 Após avaliar as 3 visões, alguns pontos chamaram a atenção, são eles:
 
 - De fato a biblioteca Pycaret vem para facilitar a vida do Cientista de Dados no que se refere a Machine Learning, pois em poucas linhas de código, é apresentado  um comparativo de performance dos modelos de classificação disponíveis, afim de permitir ao Cientista de Dados selecionar o que melhor se enquadra ao desafio, enquanto na modelagem tradicional, seria necessário rodar o projeto mais de uma vez comparando os resultados afim de escolher o melhor modelo. Neste sentido, prototipagem e testes se tornam mais ágeis com o Pycaret.
-*  Percebe-se ainda que de fato Redes Neurais tendem a entregar uma melhor performance em detrimento dos modelos de Machine Learning, mesmo em bases pequenas como a deste estudo. Desse modo, cabe uma avaliação se o esforço x tempo de processamento dado o tamanho da base necessita de uma modelagem via Redes Neurais, ou se para a demanda mapeada a modelagem tradicional é o mais recomendado.
+*  Percebe-se ainda que de fato Redes Neurais tendem a entregar uma melhor performance em detrimento dos modelos de Machine Learning, mesmo em bases pequenas como a deste estudo. No entanto, é sabido que o processamento dos dados via Redes Neurais é mais pesado do via modelagem tradicional, desse modo, cabe uma avaliação se o esforço x tempo de processamento dado o tamanho da base necessita de uma modelagem via Redes Neurais, ou se para a demanda mapeada a modelagem tradicional já seria suficiente.
 
 
 Contribuições: Se você deseja contribuir para este projeto, fique a vontade para criar uma cópia e realizar as melhorias !
